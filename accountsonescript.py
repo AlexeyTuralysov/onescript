@@ -60,7 +60,7 @@ def accountonescript():
     else:
       
     
-      print('Цикл окончен, i =', x)
+      print('Цикл окончен, x =', x)
       time.sleep(4)
       accountonescript()
         
