@@ -1,0 +1,2 @@
+# onescript
+accounts one script
